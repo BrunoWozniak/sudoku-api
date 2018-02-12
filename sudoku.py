@@ -1,6 +1,5 @@
 import time, csv
 from itertools import combinations
-import pandas as pd
 from utils import *
 
 
